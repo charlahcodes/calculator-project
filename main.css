@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+.calc {
+  background-color: #61B350;
+  color: white;
+  display: inline-block;
+  border: 10px solid #83C178;
+  border-radius: 5px;
+
+padding: 20px;
+}
+
+.light {
+  background-color: #83C178;
+  color: white;
+}
